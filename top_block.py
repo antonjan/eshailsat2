@@ -5,7 +5,7 @@
 # Title: Es'hailsat-2 Beacon tracker
 # Author: W.J. Ubbels PE4WJ
 # Description: Es'hailsat-2 Beacon tracker
-# Generated: Wed Apr  3 12:52:16 2019
+# Generated: Wed Apr  3 13:11:32 2019
 ##################################################
 
 from distutils.version import StrictVersion
