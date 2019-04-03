@@ -12,7 +12,7 @@ Included are:
 ![Eshail-2 QA-100 Beacon lock](beacontrack_2.grc.png)
 Application screenshot
 ![Eshail-2 QA-100 Beacon lock](beacontrack_app_1.grc.png)
-# Changes from original; project
+# Changes from original project
 1) change input to rtl_sdr
 2) disabled null object.
 
